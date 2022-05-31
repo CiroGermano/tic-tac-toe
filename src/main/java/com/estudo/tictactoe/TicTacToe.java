@@ -1,6 +1,5 @@
 package com.estudo.tictactoe;
 
-import java.util.function.BooleanSupplier;
 
 public class TicTacToe {
 	private String[][] board = {
